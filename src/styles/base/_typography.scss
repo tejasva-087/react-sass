@@ -1,0 +1,51 @@
+.heading {
+  &-primary,
+  &-secondary,
+  &-tertiary {
+    color: ;
+    line-height: ;
+    font-weight: ;
+  }
+
+  &-primary {
+    font-size: ;
+  }
+
+  &-secondary {
+    font-size: ;
+  }
+
+  &-tertiary {
+    font-size: ;
+  }
+}
+
+.text {
+  &-primary {
+    font-size: $text-primary;
+  }
+
+  &-secondary {
+    font-size: $text-secondary;
+  }
+}
+
+.label {
+  &-primary {
+    font-size: ;
+  }
+
+  &-secondary {
+    font-size: ;
+  }
+}
+
+.font {
+  &-bold {
+    font-weight: ;
+  }
+
+  &-light {
+    font-weight: ;
+  }
+}
